@@ -10,7 +10,7 @@
 ### ⚡ Algorithm Training
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wnwogh)](https://solved.ac/wnwogh)
 
-### 
+### Check!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaehjoo&layout=compact&theme=dracula)
 
 <!--

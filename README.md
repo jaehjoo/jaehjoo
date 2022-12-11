@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?&color=auto&type=slice&height=400&text=Jaehjoo&desc=Enjoy%20Programming%20Life)
+![header](https://capsule-render.vercel.app/api?&color=auto&type=slice&height=400&text=Jaehjoo&desc=Enjoy%20Your%20Life)
 ## 안녕하세요! Howdy! 👋
 
 ### 🌱 My Skill
